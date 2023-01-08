@@ -1,4 +1,0 @@
-hoge
-hello
-hello
-hoge
